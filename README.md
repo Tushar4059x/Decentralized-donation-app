@@ -1,3 +1,21 @@
+Decentralized Donation Application
+Overview
+This decentralized donation application, similar to "Buy Me a Coffee," allows users to make donations directly to an Algorand wallet. The project leverages the Algorand blockchain to ensure transparency, security, and immutability of transactions.
+
+Features
+User-friendly Interface: Easy-to-use interface for making donations.
+Blockchain Security: Transactions are secured by the Algorand blockchain.
+Transparency: All donations are recorded on the blockchain and can be publicly verified.
+Decentralization: No intermediaries; donations go directly to the recipient's Algorand wallet.
+Table of Contents
+Overview
+Features
+Installation
+Usage
+Project Structure
+Technologies Used
+Contributing
+License
 Installation
 Prerequisites
 Node.js and npm installed
